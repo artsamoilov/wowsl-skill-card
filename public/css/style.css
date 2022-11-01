@@ -221,7 +221,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
 .skill-buttons__button:hover {
   background-color: #4c4d6c;
   color: rgba(255, 255, 255, 0.8);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
 }
 
 .skill-buttons__button--active {
